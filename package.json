@@ -4,7 +4,10 @@
   "description": "\"자바스크립트 패턴과 테스트\" 스터디",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "-----git command-----": "",
+    "push": "git push jpt master",
+    "pull": "git pull jpt master"
   },
   "author": "",
   "license": "ISC",
@@ -13,7 +16,10 @@
     "@babel/preset-env": "^7.14.8",
     "@babel/preset-typescript": "^7.14.5",
     "@types/jest": "^26.0.24",
+    "@typescript-eslint/eslint-plugin": "^4.28.4",
+    "@typescript-eslint/parser": "^4.28.4",
     "babel-jest": "^27.0.6",
+    "eslint": "^7.31.0",
     "jest": "^27.0.6",
     "ts-jest": "^27.0.4",
     "ts-node": "^10.1.0",
